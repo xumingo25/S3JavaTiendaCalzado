@@ -34,4 +34,12 @@ public class Calzado {
     public void setNumero(int numero) {
         this.numero = numero;
     }
+
+    //Por construir
+    //•	valorVenta: retornará el valor de venta del calzado,
+    // sabiendo que el fin de semana, aumenta en un 24% el
+    // valor Base y en la semana el valor Base disminuye en un 15%.
+    public int valorVenta(){
+        return 0;
+    }
 }

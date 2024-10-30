@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b56be737-9dbc-4776-bf29-b907edcf2521" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TiendaCalzadoBC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejemplos/encapsulamiento/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejemplos/encapsulamiento/Microonda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejemplos/herencia/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejemplos/herencia/Estudiante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejemplos/herencia/Materia.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ejemplos/herencia/Profesor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modelo/Calzado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modelo/Deportivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modelo/Formal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modelo/Hombre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modelo/Mujer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modelo/Producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vista/App.java" afterDir="false" />
-    </list>
+    <list default="true" id="b56be737-9dbc-4776-bf29-b907edcf2521" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +74,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/vista/App.java</url>
-          <line>22</line>
+          <line>25</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
