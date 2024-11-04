@@ -15,4 +15,15 @@ public class Mujer extends Formal{
     public void setAlturaTaco(int alturaTaco) {
         this.alturaTaco = alturaTaco;
     }
+
+    ////o	Si la altura del taco es mayor a 10, el descuento será de un 20% del valor venta
+    @Override
+    public int descuento() {
+        int descuento = 0;
+        if(this.alturaTaco > 10){
+            descuento = valorVenta()/5;
+        }
+        return descuento;
+    }
+
 }
